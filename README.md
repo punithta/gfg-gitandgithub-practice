@@ -1,1 +1,1 @@
-echo "# gfg-gitandgithub-practice"
+# gfg-gitandgithub-practice
